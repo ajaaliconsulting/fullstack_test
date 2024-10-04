@@ -24,8 +24,8 @@ Your server needs to use `fastapi` and needs to be runnable locally.
 #### Database
 Your database is to be deployed on AWS Dynamo DB. You must include the CDK code to provision the dynamo db table with your response.
 
-[!NOTE]
-Please make sure you don't include you AWS account or API Key, but make these configurable through environment files.
+> [!NOTE]
+> Please make sure you don't include you AWS account or API Key, but make these configurable through environment files.
 
 ## What we expect
 1. A fully working python repository that can be run locally, your python project must be layed out in a way that can be shared. Using `Poetry` is preferred.
