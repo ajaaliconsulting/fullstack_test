@@ -32,6 +32,6 @@ Your database is to be deployed on AWS Dynamo DB. You must include the CDK code 
 1. Your repository must include the AWS CDK stack that's used to deploy any AWS resources used.
 1. The User interface must replicate the figma design provided.
 
-Please provide the link once you've completed for your profile to be reviewd.
+Please provide the link to your answer once you've completed it, your profile will not be reviewed without this.
 
 Best of luck!.
