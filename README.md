@@ -4,7 +4,7 @@ This technical test is a representation of the role you will be performing and t
 1. Project layout.
 1. Code structure and formatting.
 1. Use of good design patterns.
-1. Attention to details on implementing the design.
+1. Attention to details on implementing the figma design.
 
 When you've completed your answer, please share a link to the github repository.
 
@@ -12,7 +12,7 @@ When you've completed your answer, please share a link to the github repository.
 You have been provided a figma design by our team designer and you've been tasked with implementing this screen. The screen allows users to search for flights and sort the results.
 
 ### Stub data
-Please see the file flights.csv included in this repo which has the stub data you need to use.
+Please see the file `flights.csv` included in this repo which has the stub data you need to use.
 
 ### Technologies
 #### Front End
@@ -22,9 +22,10 @@ The web app uses `htmx`, `tailwind css` and `AlpineJS`.
 Your server needs to use `fastapi` and needs to be runnable locally.
 
 #### Database
-Your database is to be deployed on AWS Dynamo DB. You must include the CDK code to build the dynamo db table with your response.
+Your database is to be deployed on AWS Dynamo DB. You must include the CDK code to provision the dynamo db table with your response.
 
-**Note** Please make sure you don't include you AWS account or API Key, but make these configurable through environment files.
+[!Note]
+Please make sure you don't include you AWS account or API Key, but make these configurable through environment files.
 
 ## What we expect
 1. A fully working python repository that can be run locally, your python project must be layed out in a way that can be shared. Using `Poetry` is preferred.
