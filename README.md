@@ -12,7 +12,7 @@ When you've completed your answer, please share a link to the github repository.
 You have been provided a figma design by our team designer and you've been tasked with implementing this screen. The screen allows users to search for flights and sort the results.
 
 ### Stub data
-Please see the file `flights.csv` included in this repo which has the stub data you need to use.
+Please run `flight_data_generator.py` to create the stub data.
 
 ### Technologies
 #### Front End
