@@ -11,6 +11,8 @@ When you've completed your answer, please share a link to the github repository.
 ## Brief
 You have been provided a figma design by our team designer and you've been tasked with implementing this screen. The screen allows users to search for flights and sort the results.
 
+Figma Design Link: https://www.figma.com/proto/azih5DhSF66MfnaktjyfPD/Ajaali-Flights?page-id=26%3A1920&node-id=26-1993&node-type=canvas&viewport=510%2C387%2C0.61&t=5kLALDU20n9MDud6-1&scaling=scale-down&content-scaling=fixed&show-proto-sidebar=1&starting-point-node-id=26%3A1993
+
 > [!NOTE]
 > You will need a figma account to be able to access the figma Web App.
 
