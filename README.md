@@ -24,7 +24,7 @@ Your server needs to use `fastapi` and needs to be runnable locally.
 #### Database
 Your database is to be deployed on AWS Dynamo DB. You must include the CDK code to provision the dynamo db table with your response.
 
-[!Note]
+[!NOTE]
 Please make sure you don't include you AWS account or API Key, but make these configurable through environment files.
 
 ## What we expect
