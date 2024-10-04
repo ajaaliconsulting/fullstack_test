@@ -35,7 +35,7 @@ Your database is to be deployed on AWS Dynamo DB. You must include the CDK code 
 ## What we expect
 1. A fully working python repository that can be run locally, your python project must be layed out in a way that can be shared. Using `Poetry` is preferred.
 1. Your repository must include the AWS CDK stack that's used to deploy any AWS resources used.
-1. The User interface must replicate the figma design provided.
+1. The User interface must replicate the figma design provided. If a button or filter is active in the design then it should be active in your response, otherwise showing the button or filter on the design is enough.
 
 Please provide the link to your answer once you've completed it, your profile will not be reviewed without this.
 
