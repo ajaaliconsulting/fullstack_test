@@ -11,6 +11,9 @@ When you've completed your answer, please share a link to the github repository.
 ## Brief
 You have been provided a figma design by our team designer and you've been tasked with implementing this screen. The screen allows users to search for flights and sort the results.
 
+> [!NOTE]
+> You will need a figma account to be able to access the figma Web App.
+
 ### Stub data
 Please run `flight_data_generator.py` to create the stub data.
 
